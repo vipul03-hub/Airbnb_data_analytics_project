@@ -29,3 +29,11 @@ This analysis helps Airbnb:
 - Improve location-based recommendations
 - Identify high-demand property types
 - Enhance user engagement strategies
+
+- ## 📈 Key Insights
+
+- Most listings are concentrated in a few high-demand neighborhoods, indicating location-driven demand
+- Entire home/apartment is the most common room type, showing preference for privacy
+- Price distribution is highly skewed, with a majority of listings in the lower to mid-price range
+- Entire homes tend to have higher prices compared to private/shared rooms
+- Number of reviews has increased over time, indicating growing platform usage
